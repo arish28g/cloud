@@ -3,11 +3,11 @@ $usr=$_POST["usr"];
 $pwd=$_POST["pwd"];
 if($usr=="harish"&&$pwd=="hari123")
 {
-$login="Welcome Admin"
+$login="Welcome Admin";
 }
 else
 {
-$login="login failed"
+$login="login failed";
 }
 ?>
 <html>
