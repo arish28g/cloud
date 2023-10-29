@@ -1,0 +1,16 @@
+header{
+  font-size:10 px;
+  align:center;
+  background-color:red;
+  border-radius:10 px;
+}
+footer{
+  font-size:10 px;
+  align:center;
+  background-color:red;
+  border-radius:10 px;
+}
+article{
+  width:auto;
+  border-radius:10 px;
+}
